@@ -1,0 +1,17 @@
+[
+    {
+        "name"  : "coffee",
+        "temp"  : "hot",
+        "price" : 1.75
+    },
+    {
+        "name"  : "tea",
+        "temp"  :  "hot",
+        "price" : 1.5
+    },
+    {
+        "name"  : "apple juice",
+        "temp"  : "cold",
+        "price" : 1.5
+    }
+]

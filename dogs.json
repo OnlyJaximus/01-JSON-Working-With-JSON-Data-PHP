@@ -1,0 +1,125 @@
+[
+{
+    "name"   : "bozo",
+    "breed"  : "pug",
+    "sex"    :  "male",
+    "age"    : 34,
+    "weight" : 131,
+    "image"  : "images/bozo-dog.jpg",
+     "fur" :{
+        "color"  : "brown",
+        "length" : "short",
+        "sheds"  : true
+   },
+   "tricks" : {
+        "come"  : true,
+        "fetch" : false,
+        "shake" : true,
+        "sit"   : true,
+        "spin"  : false,
+        "stay"  : false
+   }
+},
+{
+    "name"   : "butters",
+    "breed"  : "mutt",
+    "sex"    :  "female",
+    "age"    : 31,
+    "weight" : 656,
+    "image"  : "images/butters-dog.jpg",
+    "fur" :{
+        "color"  : "black",
+        "length" : "long",
+        "sheds"  : true
+   },
+   "tricks" : {
+        "come"  : true,
+        "fetch" : true,
+        "shake" : true,
+        "sit"   : true,
+        "spin"  : true,
+        "stay"  : true
+   }
+},{
+    "name"   : "chewy",
+    "breed"  : "labradoodle",
+    "sex"    :  "male",
+    "age"    : 49,
+    "weight" : 864,
+    "image"  : "images/chewy-dog.jpg",
+    "fur" :{
+        "color"  : "brown",
+        "length" : "long",
+        "sheds"  : false
+   },
+   "tricks" : {
+        "come"  : true,
+        "fetch" : true,
+        "shake" : false,
+        "sit"   : true,
+        "spin"  : false,
+        "stay"  : true
+   }
+},{
+    "name"   : "farter",
+    "breed"  : "labrador",
+    "sex"    :  "male",
+    "age"    : 61,
+    "weight" : 992,
+    "image"  : "images/farter-dog.jpg",
+    "fur" :{
+        "color"  : "tan",
+        "length" : "short",
+        "sheds"  : true
+   },
+   "tricks" : {
+        "come"  : false,
+        "fetch" : true,
+        "shake" : false,
+        "sit"   : true,
+        "spin"  : false,
+        "stay"  : true
+   }
+},{
+    "name"   : "put-put",
+    "breed"  : "sheepdog",
+    "sex"    :  "female",
+    "age"    : 3,
+    "weight" : 336,
+    "image"  : "images/put-put.jpeg",
+    "fur" :{
+        "color"  : "white",
+        "length" : "long",
+        "sheds"  : true
+   },
+   "tricks" : {
+        "come"  : false,
+        "fetch" : false,
+        "shake" : false,
+        "sit"   : false,
+        "spin"  : false,
+        "stay"  : false
+   }
+},
+{
+    "name"   : "zoe",
+    "breed"  : "husky",
+    "sex"    :  "female",
+    "age"    : 39,
+    "weight" : 656,
+    "image"  : "images/zoe-dog.jpg",
+    "fur" :{
+        "color"  : "gray",
+        "length" : "long",
+        "sheds"  : false
+   },
+   "tricks" : {
+        "come"  : true,
+        "fetch" : false,
+        "shake" : false,
+        "sit"   : true,
+        "spin"  : false,
+        "stay"  : true
+   }
+}
+]
