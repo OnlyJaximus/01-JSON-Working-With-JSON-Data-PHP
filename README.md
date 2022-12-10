@@ -4,7 +4,7 @@
 * Decode(String, Type) Converts data in JavaScript Object Notation (JSON) format into a data object of a specified type
 
       *** index-drinks.php ***
--We are going to decode it and convert it into a format the PHP can understand and work with, because on its own we can't loop through this JSON data and pull somne of  these values and display them on-screen.
+-We are going to decode it and convert it into a format the PHP can understand and work with, because on its own we can't loop through this JSON data and pull some of  these values and display them on-screen.
 -So, we need to change it into something the PHP can work with such as array.
 
 
